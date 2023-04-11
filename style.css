@@ -1,0 +1,16 @@
+html, body{
+    height: 100% ;
+    width: 100%;
+}
+a{
+    list-style: none;
+}
+.circle{
+    border-radius: 50%;
+}
+.bi-star-fill{
+    color: yellow;
+}
+.accordion-button:not(.collapsed){
+background-color: aliceblue;
+}
